@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32002.261
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestionCAE", "..\WebApplication2\WebApplication2\GestionCAE.csproj", "{2D924ED9-2029-4C07-8C6B-FBD99C108B1A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestionCAE", "..\WebApplication2 - copia\WebApplication2\GestionCAE.csproj", "{2D924ED9-2029-4C07-8C6B-FBD99C108B1A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
